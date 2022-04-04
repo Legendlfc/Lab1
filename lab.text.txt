@@ -1,0 +1,20 @@
+https://github.com/flutter/flutter
+This is a source to help you make apps for android and since i use android this cought my attention
+because it could be a tool that i use in the future.
+
+https://github.com/Genymobile/scrcpy
+This repository allows you to view mobile phones display and control them through usb connection.
+This could help if your phone's screen malfunctioned or broke.
+
+https://github.com/google/material-design-icons
+I found this interesting because I could end up using some of these icons for future projects here
+at Full Sail or even outside of school.
+
+https://github.com/wasabeef/awesome-android-ui
+This one is interesting because if I were to be working on android app's in the future I could use
+these to help me in the process.
+
+https://github.com/PhilJay/MPAndroidChart
+I found this one really interesting because it could be useful in my career if I were to have to
+present information to a team of developers or anyone else, this helps me do that easily and
+efficiently.
